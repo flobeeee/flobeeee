@@ -1,6 +1,6 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=flobeeee's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=flobeeee's%20github&fontSize=50)
 
 ### 🌈 Tech Stack 
 
@@ -25,7 +25,7 @@
   <a href="https://songnumberbook.shop"><img src="https://img.shields.io/badge/노래번호부-F43059"/></a>
   <img src="https://img.shields.io/badge/나만의 애창곡리스트 만들기 서비스-FFFFFF?style=flat-square"/>
   
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Fake%20it%20till%20you%20make%20it%20&fontSize=50)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Fake%20it%20till%20you%20make%20it%20&fontSize=30)
   </div>
 <!--
 **flobeeee/flobeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
