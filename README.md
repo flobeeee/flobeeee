@@ -19,10 +19,10 @@
   <a href="https://velog.io/@flobeeee"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
   ### 🎉 Project
-  <a href="https://ttankttank.shop"><img src="https://img.shields.io/badge/땅땅마켓-006C66"/></a>
+  <a href="https://ttangttang.shop"><img src="https://img.shields.io/badge/땅땅마켓-006C66"/></a>
   <img src="https://img.shields.io/badge/위치기반 실시간 중고품 경매 서비스-FFFFFF?style=flat-square"/>
 
-  <a href="https://sondnumberbook.shop"><img src="https://img.shields.io/badge/노래번호부-F43059"/></a>
+  <a href="https://songnumberbook.shop"><img src="https://img.shields.io/badge/노래번호부-F43059"/></a>
   <img src="https://img.shields.io/badge/나만의 애창곡리스트 만들기 서비스-FFFFFF?style=flat-square"/>
   </div>
 <!--
