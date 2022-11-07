@@ -20,7 +20,7 @@
   
   ### 🎉 Project
   <a href="https://ttangttang.shop"><img src="https://img.shields.io/badge/땅땅마켓-006C66"/></a>
-  <img src="https://img.shields.io/badge/위치기반 실시간 중고품 경매 서비스-FFFFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/위치기반 실시간 중고품 경매 서비스 (서비스종료)-FFFFFF?style=flat-square"/>
 
   <a href="https://velog.io/@flobeeee/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%85%B8%EB%9E%98%EB%B2%88%ED%98%B8%EB%B6%80SNB"><img src="https://img.shields.io/badge/노래번호부-F43059"/></a>
   <img src="https://img.shields.io/badge/나만의 애창곡리스트 만들기 서비스 (서비스종료)-FFFFFF?style=flat-square"/>
