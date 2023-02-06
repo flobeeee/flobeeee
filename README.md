@@ -19,7 +19,7 @@
   ### 🎉 Career
   
   <img src="https://img.shields.io/badge/미디언스-1DBF73?style=flat-square"/>
-    <img src="https://img.shields.io/badge/2021.07 2023.02-F7DF1E?style=flat-square"/>
+    <img src="https://img.shields.io/badge/2021.07 2023.02-111111?style=flat-square"/>
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Fake%20it%20till%20you%20make%20it%20&fontSize=30)
   </div>
